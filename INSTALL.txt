@@ -1,0 +1,4 @@
+0. Place the TXT_API-1.war to your server folder;
+1. Place the test.txt file to server folder or make your own but with the same name;
+2. Deploy and enjoy.
+
